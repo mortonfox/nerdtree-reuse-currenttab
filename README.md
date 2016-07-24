@@ -2,10 +2,11 @@
 
 ## Introduction
 
-When you open a file node in NERDTree and if that file is already open in a
-buffer in another tab, NERDTree switches to that tab to activate the file. I
-find this tab-switching behavior rather jarring, so I use this plugin to alter
-the file open behavior so NERDTree no longer switches tabs.
+When you open a file node in [NERDTree](https://github.com/scrooloose/nerdtree)
+and if that file is already open in a buffer in another tab, NERDTree switches
+to that tab to activate the file. Since I find this tab-switching behavior
+rather jarring, I use this plugin to alter NERDTree's file open behavior so
+that it will open the file in the current tab instead of switching tabs.
 
 ## Installation
 
