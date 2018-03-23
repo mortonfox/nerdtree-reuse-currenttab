@@ -5,7 +5,7 @@
 " Last Change: July 22, 2015
 " ============================================================================
 
-if exists("g:loaded_nerdtree_reuse_currenttab")
+if exists('g:loaded_nerdtree_reuse_currenttab')
     finish
 endif
 let g:loaded_nerdtree_reuse_currenttab = 1
